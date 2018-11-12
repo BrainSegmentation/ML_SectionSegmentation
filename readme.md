@@ -1,0 +1,1 @@
+The wafer images have been downscaled with a factor 3, you need to adjust the provided ground truth accordingly.
