@@ -1,5 +1,8 @@
 The wafer images have been downscaled with a factor 3, you need to adjust the provided ground truth accordingly.
 
+### Meeting Notes
+[Meeting questions & answers notes](https://docs.google.com/document/d/133QUUbID77sg8ut3_-iwtmuctysoqTj2HvwiM7PE1os/edit?usp=sharing)
+
 # Week 1
 
 ## Make scripts to conveniently convert section coordinates between
