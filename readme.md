@@ -10,7 +10,7 @@ The wafer images have been downscaled with a factor 3, you need to adjust the pr
 ## Get one ot the suggested Mask-CNN implementations to run (or one that you find more suitable)
 
 - does it run ok on a laptop ?
-- do you need to train [online] (https://cloud.google.com/gpu/)?
+- do you need to train [online](https://cloud.google.com/gpu/)?
 
 Play with parameters such as
 - train with magnetic parts only
